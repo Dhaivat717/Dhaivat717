@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dhaivat717
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dhaivat Patel
+- 👀 I’m interested in learnig new things, coding, football.
+- 🌱 I’m currently learning how AI, deep learnig can make our lives far more easier
+- 💞️ I’m looking to collaborate on any project related to AI, app development, machine learnig.
+
 
 <!---
 Dhaivat717/Dhaivat717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
